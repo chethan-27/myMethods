@@ -19,8 +19,4 @@ let payload = {
 
 let res = get(payload, "place.taluk.area.name");
 
-// console.log(payload["name"]);
-
-// console.log("res -> ", res);
-
 console.log(Math.random(1));
